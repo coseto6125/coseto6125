@@ -85,14 +85,24 @@ Two smaller projects exploring the same theme from different angles: moving perf
 
 </div>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./profile/stats.svg" alt="E-NoR's GitHub stats" width="420" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./profile/top-langs.svg" alt="Most used languages" width="420" />
+    </td>
+  </tr>
+</table>
 
-[![GitHub stats](./profile/stats.svg)](https://github.com/coseto6125)
-[![Top languages](./profile/top-langs.svg)](https://github.com/coseto6125)
+<p align="center">
+  <sub><a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">Rank methodology ↗</a></sub>
+</p>
 
-</div>
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=coseto6125&bg_color=0f172a&color=94a3b8&line=2dd4bf&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coseto6125&bg_color=0f172a&color=94a3b8&line=2dd4bf&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="840" />
+</p>
 
 ## Currently thinking about
 
