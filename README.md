@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:172554,100:0f766e&height=190&section=header&text=E-NoR&fontSize=52&fontColor=e2e8f0&fontAlignY=36&desc=Code%20Intelligence%20%C2%B7%20Agent%20Workflows%20%C2%B7%20Open%20Source&descAlignY=58&descSize=16&animation=fadeIn" alt="E-NoR — Code Intelligence and Agent Workflows" />
 </a>
 
-# E-NoR
+### Everything No Reason
 
 ### Building reliable tools for code intelligence and agent workflows.
 
@@ -87,8 +87,8 @@ Two smaller projects exploring the same theme from different angles: moving perf
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=coseto6125&show_icons=true&hide_border=true&bg_color=0f172a&title_color=67e8f9&icon_color=2dd4bf&text_color=cbd5e1&ring_color=14b8a6)](https://github.com/coseto6125)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coseto6125&layout=compact&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1)](https://github.com/coseto6125)
+[![GitHub stats](./profile/stats.svg)](https://github.com/coseto6125)
+[![Top languages](./profile/top-langs.svg)](https://github.com/coseto6125)
 
 </div>
 
