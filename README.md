@@ -65,10 +65,10 @@ Two smaller projects exploring the same theme from different angles: moving perf
 
 ## What I enjoy building
 
-- **Agent interfaces:** MCP servers, compact tool outputs, context shaping, and workflows that are useful without requiring a human-oriented UI.
-- **Code intelligence:** AST parsing, structural graphs, dependency and impact analysis, route／contract discovery, and explainable analysis boundaries.
-- **Systems engineering:** Rust／Python boundaries, zero-copy data paths, incremental computation, concurrency, packaging, and release automation.
-- **Engineering quality:** reproducible benchmarks, meaningful tests, CI that actually validates the intended surface, and documentation that states limitations clearly.
+- **Agent systems with an operational core:** scenario-driven orchestration, multi-agent isolation, and workflows that can grow from a single tool call into a reliable product surface.
+- **Reliable runtime foundations:** durable execution, explicit state, cache-aware retrieval, and infrastructure that keeps agent behavior observable and recoverable.
+- **Composable agent interfaces:** MCP servers, compact tool outputs, context shaping, and interfaces that are easy for both models and developers to invoke.
+- **Systems engineering:** Rust／Python boundaries, concurrency, incremental computation, performance-aware storage, and CI that verifies the intended contract.
 
 ## Tools of the trade
 
@@ -88,16 +88,18 @@ Two smaller projects exploring the same theme from different angles: moving perf
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="./profile/stats.svg" alt="E-NoR's GitHub stats" width="420" />
+      <img src="./profile/stats.svg" alt="E-NoR's Public Repository Stats" width="420" />
     </td>
     <td width="50%" align="center">
-      <img src="./profile/top-langs.svg" alt="Most used languages" width="420" />
+      <img src="./profile/top-langs.svg" alt="Languages in Public Repositories" width="420" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub><a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">Rank methodology ↗</a></sub>
+  <sub>
+    <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">Rank methodology ↗</a>
+  </sub>
 </p>
 
 <p align="center">
