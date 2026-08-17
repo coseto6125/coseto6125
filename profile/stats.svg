@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">E-NoR&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 1762, Total PRs: 667, Total Issues: 10, Contributed to (last year): 5</desc>
+        <title id="titleId">E-NoR&#39;s Public Repository Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 1774, Total PRs: 667, Total Issues: 10, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.70251058258114;
+        stroke-dashoffset: 85.69215221760273;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >E-NoR&#39;s GitHub Stats</text>
+      >E-NoR&#39;s Public Repository Stats</text>
     </g>
       </g>
     
