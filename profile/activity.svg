@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="400" viewBox="0 0 840 400" role="img" aria-label="Contribution Graph: 735 contributions · 02 Aug 2026 – 01 Sep 2026">
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.36" />
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0.02" />
+    </linearGradient>
+  </defs>
+  <rect width="840" height="400" rx="6" fill="#0f172a" />
+  <text x="62" y="38" fill="#67e8f9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="600">Contribution Graph</text>
+  <text x="62" y="58" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">735 contributions · 02 Aug 2026 – 01 Sep 2026</text>
+  <line x1="62" y1="348.00" x2="812" y2="348.00" stroke="#1e293b" stroke-width="1" />
+  <text x="50" y="352.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="end">0</text>
+  <line x1="62" y1="279.50" x2="812" y2="279.50" stroke="#1e293b" stroke-width="1" />
+  <text x="50" y="283.50" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="end">25</text>
+  <line x1="62" y1="211.00" x2="812" y2="211.00" stroke="#1e293b" stroke-width="1" />
+  <text x="50" y="215.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="end">50</text>
+  <line x1="62" y1="142.50" x2="812" y2="142.50" stroke="#1e293b" stroke-width="1" />
+  <text x="50" y="146.50" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="end">75</text>
+  <line x1="62" y1="74.00" x2="812" y2="74.00" stroke="#1e293b" stroke-width="1" />
+  <text x="50" y="78.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="end">100</text>
+  <path d="M 62.00 348.00 C 70.33 345.26, 78.67 339.78, 87.00 339.78 C 95.33 339.78, 103.67 339.78, 112.00 339.78 C 120.33 339.78, 128.67 305.07, 137.00 276.76 C 145.33 248.45, 153.67 169.90, 162.00 169.90 C 170.33 169.90, 178.67 348.00, 187.00 348.00 C 195.33 348.00, 203.67 324.25, 212.00 301.42 C 220.33 278.59, 228.67 229.72, 237.00 211.00 C 245.33 192.28, 253.67 189.08, 262.00 189.08 C 270.33 189.08, 278.67 252.10, 287.00 252.10 C 295.33 252.10, 303.67 224.70, 312.00 224.70 C 320.33 224.70, 328.67 323.34, 337.00 323.34 C 345.33 323.34, 353.67 249.36, 362.00 249.36 C 370.33 249.36, 378.67 276.76, 387.00 276.76 C 395.33 276.76, 403.67 258.49, 412.00 224.70 C 420.33 190.91, 428.67 74.00, 437.00 74.00 C 445.33 74.00, 453.67 345.26, 462.00 345.26 C 470.33 345.26, 478.67 326.08, 487.00 320.60 C 495.33 315.12, 503.67 316.49, 512.00 312.38 C 520.33 308.27, 528.67 303.70, 537.00 295.94 C 545.33 288.18, 553.67 269.39, 562.00 265.80 C 570.33 262.21, 578.67 264.46, 587.00 260.32 C 595.33 256.18, 603.67 224.70, 612.00 224.70 C 620.33 224.70, 628.67 328.82, 637.00 328.82 C 645.33 328.82, 653.67 298.68, 662.00 298.68 C 670.33 298.68, 678.67 311.01, 687.00 315.12 C 695.33 319.23, 703.67 317.86, 712.00 323.34 C 720.33 328.82, 728.67 348.00, 737.00 348.00 C 745.33 348.00, 753.67 334.30, 762.00 334.30 C 770.33 334.30, 778.67 345.26, 787.00 345.26 C 795.33 345.26, 803.67 319.69, 812.00 306.90 L 812.00 348 L 62.00 348 Z" fill="url(#area)" />
+  <path d="M 62.00 348.00 C 70.33 345.26, 78.67 339.78, 87.00 339.78 C 95.33 339.78, 103.67 339.78, 112.00 339.78 C 120.33 339.78, 128.67 305.07, 137.00 276.76 C 145.33 248.45, 153.67 169.90, 162.00 169.90 C 170.33 169.90, 178.67 348.00, 187.00 348.00 C 195.33 348.00, 203.67 324.25, 212.00 301.42 C 220.33 278.59, 228.67 229.72, 237.00 211.00 C 245.33 192.28, 253.67 189.08, 262.00 189.08 C 270.33 189.08, 278.67 252.10, 287.00 252.10 C 295.33 252.10, 303.67 224.70, 312.00 224.70 C 320.33 224.70, 328.67 323.34, 337.00 323.34 C 345.33 323.34, 353.67 249.36, 362.00 249.36 C 370.33 249.36, 378.67 276.76, 387.00 276.76 C 395.33 276.76, 403.67 258.49, 412.00 224.70 C 420.33 190.91, 428.67 74.00, 437.00 74.00 C 445.33 74.00, 453.67 345.26, 462.00 345.26 C 470.33 345.26, 478.67 326.08, 487.00 320.60 C 495.33 315.12, 503.67 316.49, 512.00 312.38 C 520.33 308.27, 528.67 303.70, 537.00 295.94 C 545.33 288.18, 553.67 269.39, 562.00 265.80 C 570.33 262.21, 578.67 264.46, 587.00 260.32 C 595.33 256.18, 603.67 224.70, 612.00 224.70 C 620.33 224.70, 628.67 328.82, 637.00 328.82 C 645.33 328.82, 653.67 298.68, 662.00 298.68 C 670.33 298.68, 678.67 311.01, 687.00 315.12 C 695.33 319.23, 703.67 317.86, 712.00 323.34 C 720.33 328.82, 728.67 348.00, 737.00 348.00 C 745.33 348.00, 753.67 334.30, 762.00 334.30 C 770.33 334.30, 778.67 345.26, 787.00 345.26 C 795.33 345.26, 803.67 319.69, 812.00 306.90" fill="none" stroke="#2dd4bf" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="62.00" cy="348.00" r="2.6" fill="#f59e0b" />
+  <text x="62.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">02 Aug</text>
+  <circle cx="87.00" cy="339.78" r="2.6" fill="#f59e0b" />
+  <circle cx="112.00" cy="339.78" r="2.6" fill="#f59e0b" />
+  <circle cx="137.00" cy="276.76" r="2.6" fill="#f59e0b" />
+  <circle cx="162.00" cy="169.90" r="2.6" fill="#f59e0b" />
+  <text x="162.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">06 Aug</text>
+  <circle cx="187.00" cy="348.00" r="2.6" fill="#f59e0b" />
+  <circle cx="212.00" cy="301.42" r="2.6" fill="#f59e0b" />
+  <circle cx="237.00" cy="211.00" r="2.6" fill="#f59e0b" />
+  <circle cx="262.00" cy="189.08" r="2.6" fill="#f59e0b" />
+  <text x="262.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">10 Aug</text>
+  <circle cx="287.00" cy="252.10" r="2.6" fill="#f59e0b" />
+  <circle cx="312.00" cy="224.70" r="2.6" fill="#f59e0b" />
+  <circle cx="337.00" cy="323.34" r="2.6" fill="#f59e0b" />
+  <circle cx="362.00" cy="249.36" r="2.6" fill="#f59e0b" />
+  <text x="362.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">14 Aug</text>
+  <circle cx="387.00" cy="276.76" r="2.6" fill="#f59e0b" />
+  <circle cx="412.00" cy="224.70" r="2.6" fill="#f59e0b" />
+  <circle cx="437.00" cy="74.00" r="2.6" fill="#f59e0b" />
+  <circle cx="462.00" cy="345.26" r="2.6" fill="#f59e0b" />
+  <text x="462.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">18 Aug</text>
+  <circle cx="487.00" cy="320.60" r="2.6" fill="#f59e0b" />
+  <circle cx="512.00" cy="312.38" r="2.6" fill="#f59e0b" />
+  <circle cx="537.00" cy="295.94" r="2.6" fill="#f59e0b" />
+  <circle cx="562.00" cy="265.80" r="2.6" fill="#f59e0b" />
+  <text x="562.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">22 Aug</text>
+  <circle cx="587.00" cy="260.32" r="2.6" fill="#f59e0b" />
+  <circle cx="612.00" cy="224.70" r="2.6" fill="#f59e0b" />
+  <circle cx="637.00" cy="328.82" r="2.6" fill="#f59e0b" />
+  <circle cx="662.00" cy="298.68" r="2.6" fill="#f59e0b" />
+  <text x="662.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">26 Aug</text>
+  <circle cx="687.00" cy="315.12" r="2.6" fill="#f59e0b" />
+  <circle cx="712.00" cy="323.34" r="2.6" fill="#f59e0b" />
+  <circle cx="737.00" cy="348.00" r="2.6" fill="#f59e0b" />
+  <circle cx="762.00" cy="334.30" r="2.6" fill="#f59e0b" />
+  <text x="762.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">30 Aug</text>
+  <circle cx="787.00" cy="345.26" r="2.6" fill="#f59e0b" />
+  <circle cx="812.00" cy="306.90" r="2.6" fill="#f59e0b" />
+  <text x="812.00" y="372.00" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="middle">01 Sep</text>
+</svg>

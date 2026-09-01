@@ -103,7 +103,7 @@ Two smaller projects exploring the same theme from different angles: moving perf
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coseto6125&bg_color=0f172a&color=94a3b8&line=2dd4bf&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="840" />
+  <img src="./profile/activity.svg" alt="Contribution Graph" width="840" />
 </p>
 
 ## Currently thinking about

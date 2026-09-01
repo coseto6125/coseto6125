@@ -32,6 +32,15 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Test activity graph renderer
+        working-directory: scripts
+        run: python test_activity_graph.py
+
+      - name: Generate contribution activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/activity_graph.py coseto6125 profile/activity.svg
+
       - name: Normalize top languages card dimensions
         run: python scripts/normalize_card.py profile/top-langs.svg
 
