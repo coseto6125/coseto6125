@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">E-NoR&#39;s Public Repository Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 50, Total Commits  (last year) : 2481, Total PRs: 784, Total Issues: 14, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 50, Total Commits  (last year) : 2500, Total PRs: 798, Total Issues: 14, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 72.2493330437495;
+        stroke-dashoffset: 72.24690924150153;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >784</text>
+      >798</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
